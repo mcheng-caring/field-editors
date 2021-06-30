@@ -1,5 +1,4 @@
 {
-  "eslint.autoFixOnSave": false,
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "tslint.enable": false,
   "files.exclude": {
@@ -9,8 +8,8 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/.cache": true,
-    "**/build": true,
-    "**/dist": true,
+    // "**/build": true,
+    // "**/dist": true,
     "**/.docz": true
   },
   "search.exclude": {

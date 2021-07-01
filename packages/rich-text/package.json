@@ -1,5 +1,5 @@
 {
-  "name": "@contentful/field-editor-rich-text",
+  "name": "@caring/field-editor-rich-text",
   "version": "0.18.12",
   "source": "./src/index.tsx",
   "main": "./dist/index.js",
@@ -8,11 +8,11 @@
   "files": [
     "dist"
   ],
-  "author": "Contentful GmbH",
+  "author": "Caring LLC Engineering",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/contentful/field-editors"
+    "url": "https://github.com/caring/field-editors"
   },
   "scripts": {
     "watch": "tsdx watch",

@@ -35,16 +35,16 @@
     "@wikifactory/slate-trailing-block": "^0.6.0",
     "classnames": "^2.2.6",
     "detect-browser": "^3.0.1",
-    "emotion": "^10.0.17",
+    "emotion": "^11.0.0",
     "fast-deep-equal": "^3.1.1",
     "immutable": "^3.8.2",
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "prop-types": "^15.7.2",
-    "slate": "0.44.10",
+    "slate": "0.50.0",
     "slate-html-serializer": "0.7.34",
     "slate-plain-serializer": "0.6.34",
-    "slate-react": "0.21.16"
+    "slate-react": "0.50.0"
   },
   "peerDependencies": {
     "react": ">=16.8.0"
